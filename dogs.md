@@ -1,0 +1,10 @@
+# List of Dogs
+German Shepherds
+Bulldogs
+Samoyeds
+Huskies
+Pugs
+Poodles
+Chihuahua
+Alaskan Malamute
+Rottweiler
